@@ -1,0 +1,9 @@
+conda create -p venv python==3.10 // It will create a environment in the specified directory. venv is the environment name.
+
+To create virtual environment using python you have type this command : python -m venv [directory_name]. // here -v and venv is the command. It installed the python version according to system python version.
+
+Another way to crate a virtual environment is : pip install virtualenv and then : virtualenv -p python3 [environment_name]
+
+conda activate venv/ //This command activate the venv environment. If you are using conda 4.3 or older then yo u have to type this command activate venv
+
+pip install -r requirements.txt // This command install the packages what you have written inside the requirements.txt file.

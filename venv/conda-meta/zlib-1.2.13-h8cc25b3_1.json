@@ -1,0 +1,43 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "h8cc25b3_1",
+  "build_number": 1,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "files": [
+    "Library/bin/zlib.dll",
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/pkgconfig/zlib.pc",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3",
+    "zlib.dll"
+  ],
+  "fn": "zlib-1.2.13-h8cc25b3_1.tar.bz2",
+  "license": "Zlib",
+  "license_family": "Other",
+  "link": {
+    "source": "C:\\Users\\jiban\\Anaconda3\\pkgs\\zlib-1.2.13-h8cc25b3_1",
+    "type": 1
+  },
+  "md5": "f295b54ab59f5b8658e2a322ac6aa721",
+  "name": "zlib",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 162161,
+  "subdir": "win-64",
+  "timestamp": 1714514792081,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/zlib-1.2.13-h8cc25b3_1.tar.bz2",
+  "version": "1.2.13",
+  "with_features_depends": {}
+}

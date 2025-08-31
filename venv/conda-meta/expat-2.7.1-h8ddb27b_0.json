@@ -1,0 +1,48 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "h8ddb27b_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "files": [
+    "Library/bin/expat.dll",
+    "Library/bin/libexpat.dll",
+    "Library/bin/xmlwf.exe",
+    "Library/include/expat.h",
+    "Library/include/expat_config.h",
+    "Library/include/expat_external.h",
+    "Library/lib/cmake/expat-2.7.1/expat-config-version.cmake",
+    "Library/lib/cmake/expat-2.7.1/expat-config.cmake",
+    "Library/lib/cmake/expat-2.7.1/expat-release.cmake",
+    "Library/lib/cmake/expat-2.7.1/expat.cmake",
+    "Library/lib/expat.lib",
+    "Library/lib/libexpat.lib",
+    "Library/share/doc/expat/AUTHORS",
+    "Library/share/doc/expat/changelog",
+    "Library/share/man/man1/xmlwf.1"
+  ],
+  "fn": "expat-2.7.1-h8ddb27b_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\jiban\\Anaconda3\\pkgs\\expat-2.7.1-h8ddb27b_0",
+    "type": 1
+  },
+  "md5": "8c3d6f9fe628519891b45ae3c5bc9123",
+  "name": "expat",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 379844,
+  "subdir": "win-64",
+  "timestamp": 1744659970697,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/expat-2.7.1-h8ddb27b_0.tar.bz2",
+  "version": "2.7.1",
+  "with_features_depends": {}
+}

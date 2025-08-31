@@ -1,0 +1,32 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "haa95532_5",
+  "build_number": 5,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "vs2015_runtime >=14.42.34433"
+  ],
+  "files": [],
+  "fn": "vc-14.42-haa95532_5.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\jiban\\Anaconda3\\pkgs\\vc-14.42-haa95532_5",
+    "type": 1
+  },
+  "md5": "515894551c4f3754e750e88ce534e9cc",
+  "name": "vc",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 9972,
+  "subdir": "win-64",
+  "timestamp": 1744721179868,
+  "track_features": "vc14",
+  "url": "https://repo.continuum.io/pkgs/main/win-64/vc-14.42-haa95532_5.tar.bz2",
+  "version": "14.42",
+  "with_features_depends": {}
+}
