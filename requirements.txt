@@ -10,4 +10,4 @@ imblearn
 openpyxl
 statsmodels
 plotly
-nbformat
+nbformat>=4.2.0
